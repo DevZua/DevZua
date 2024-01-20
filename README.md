@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=150&section=header&text=Welcome!%20My%20Gtihub!&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=150&section=header&text=Welcome!%20My%20Github!&fontSize=35)
 ## Hi there 👋
 
 
