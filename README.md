@@ -9,8 +9,6 @@ Github, Notion, Blog에 정리하며 기록해나가고 있습니다!
 
 Notion : https://devzua.notion.site/b1b71221d8fe483b8f09af9f2ff42e28?pvs=4
 
-Blog : https://velog.io/@zua
-
 ### Skill
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
