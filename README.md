@@ -3,11 +3,6 @@
 
 
 ### Introduction
-안녕하세요! 백엔드 개발자를 꿈꾸는 김주아입니다.\
-공식 문서, 기술 블로그, 온라인 강의 등을 통해 지속적으로 학습과 새로운 기술에 대한 지식을 습득하고 있으며,\
-Github, Notion, Blog에 정리하며 기록해나가고 있습니다!
-
-Notion : https://devzua.notion.site/b1b71221d8fe483b8f09af9f2ff42e28?pvs=4
 
 ### Skill
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
